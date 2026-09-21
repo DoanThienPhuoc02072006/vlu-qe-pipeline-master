@@ -42,3 +42,4 @@ function login(username, password) {
 }
 
 module.exports = { login };
+// TODO: cải thiện thông báo lỗi sau này ngay trên dòng function login.
