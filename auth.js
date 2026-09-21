@@ -1,6 +1,6 @@
 // Danh sách tài khoản hợp lệ (giả lập "database" người dùng)
 const USERS = {
-  admin: { password: '9999', locked: false },
+  admin: { password: '123', locked: false },
   locked_user: { password: 'abc123', locked: true },
 };
 
